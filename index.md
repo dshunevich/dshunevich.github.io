@@ -14,6 +14,7 @@ title: Apps by Dmitriy Shunevich
 - [Murmur — Privacy Policy](murmur/privacy) · [Политика конфиденциальности](murmur/privacy#ru)
 - [Subkeep — Privacy Policy](subkeep/privacy) · [Политика конфиденциальности](subkeep/privacy#ru)
 - [Roundly — Privacy Policy](roundly/privacy) · [Политика конфиденциальности](roundly/privacy#ru)
+- [Wellsip — Privacy Policy](wellsip/privacy) · [Политика конфиденциальности](wellsip/privacy#ru)
 
 ## Support · Поддержка
 
