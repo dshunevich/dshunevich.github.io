@@ -19,6 +19,7 @@ title: Apps by Dmitriy Shunevich
 - [Spendbook — Privacy Policy](spendbook/privacy) · [Политика конфиденциальности](spendbook/privacy#ru)
 - [Liftnote — Privacy Policy](liftnote/privacy) · [Политика конфиденциальности](liftnote/privacy#ru)
 - [Shrinkly — Privacy Policy](shrinkly/privacy) · [Политика конфиденциальности](shrinkly/privacy#ru)
+- [Calmloop — Privacy Policy](calmloop/privacy) · [Политика конфиденциальности](calmloop/privacy#ru)
 
 ## Support · Поддержка
 
