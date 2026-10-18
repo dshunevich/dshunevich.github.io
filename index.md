@@ -23,6 +23,7 @@ title: Apps by Dmitriy Shunevich
 - [Locklet — Privacy Policy](locklet/privacy) · [Политика конфиденциальности](locklet/privacy#ru)
 - [Pagecraft — Privacy Policy](pagecraft/privacy) · [Политика конфиденциальности](pagecraft/privacy#ru)
 - [Fernly — Privacy Policy](fernly/privacy) · [Политика конфиденциальности](fernly/privacy#ru)
+- [Soonday — Privacy Policy](soonday/privacy) · [Политика конфиденциальности](soonday/privacy#ru)
 
 ## Support · Поддержка
 
