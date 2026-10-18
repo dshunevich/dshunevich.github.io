@@ -21,6 +21,7 @@ title: Apps by Dmitriy Shunevich
 - [Shrinkly — Privacy Policy](shrinkly/privacy) · [Политика конфиденциальности](shrinkly/privacy#ru)
 - [Calmloop — Privacy Policy](calmloop/privacy) · [Политика конфиденциальности](calmloop/privacy#ru)
 - [Locklet — Privacy Policy](locklet/privacy) · [Политика конфиденциальности](locklet/privacy#ru)
+- [Pagecraft — Privacy Policy](pagecraft/privacy) · [Политика конфиденциальности](pagecraft/privacy#ru)
 
 ## Support · Поддержка
 
