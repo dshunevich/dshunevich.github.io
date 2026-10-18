@@ -15,6 +15,7 @@ title: Apps by Dmitriy Shunevich
 - [Subkeep — Privacy Policy](subkeep/privacy) · [Политика конфиденциальности](subkeep/privacy#ru)
 - [Roundly — Privacy Policy](roundly/privacy) · [Политика конфиденциальности](roundly/privacy#ru)
 - [Wellsip — Privacy Policy](wellsip/privacy) · [Политика конфиденциальности](wellsip/privacy#ru)
+- [Flipwise — Privacy Policy](flipwise/privacy) · [Политика конфиденциальности](flipwise/privacy#ru)
 
 ## Support · Поддержка
 
