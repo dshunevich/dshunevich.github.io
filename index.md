@@ -17,6 +17,7 @@ title: Apps by Dmitriy Shunevich
 - [Wellsip — Privacy Policy](wellsip/privacy) · [Политика конфиденциальности](wellsip/privacy#ru)
 - [Flipwise — Privacy Policy](flipwise/privacy) · [Политика конфиденциальности](flipwise/privacy#ru)
 - [Spendbook — Privacy Policy](spendbook/privacy) · [Политика конфиденциальности](spendbook/privacy#ru)
+- [Liftnote — Privacy Policy](liftnote/privacy) · [Политика конфиденциальности](liftnote/privacy#ru)
 
 ## Support · Поддержка
 
