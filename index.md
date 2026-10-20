@@ -25,6 +25,7 @@ title: Apps by Dmitriy Shunevich
 - [Fernly — Privacy Policy](fernly/privacy) · [Политика конфиденциальности](fernly/privacy#ru)
 - [Soonday — Privacy Policy](soonday/privacy) · [Политика конфиденциальности](soonday/privacy#ru)
 - [Bukvitsa — Privacy Policy](bukvitsa/privacy) · [Политика конфиденциальности](bukvitsa/privacy#ru)
+- [Slovodel — Privacy Policy](slovodel/privacy) · [Политика конфиденциальности](slovodel/privacy#ru)
 
 ## Support · Поддержка
 
