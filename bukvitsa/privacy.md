@@ -9,16 +9,17 @@ _Last updated: October 20, 2026_
 Bukvitsa ("the app") is developed by Dmitriy Shunevich.
 
 **Your games never leave your device.** We do not have servers or accounts. Your guesses, statistics and settings
-are stored only on your iPhone. The only third-party service in the app is advertising from Yandex, described below.
+are stored only on your device (iPhone or Android phone). The only third-party service in the app is advertising from Yandex, described below.
 
 ## Sharing
 When you tap "Share", the app creates a text with colored squares on your device; you choose where to send it.
 
 ## Advertising
 The app is free and shows ads from Yandex Advertising Network (YANDEX LLC) via the Yandex Mobile Ads SDK. To show
-and measure ads, the SDK processes device and usage information such as the device model, OS version, IP address and,
-only if you allow it in the system "Allow Tracking" prompt, the advertising identifier (IDFA). You can change this at
-any time in Settings → Privacy & Security → Tracking. Yandex privacy policy: https://yandex.com/legal/confidential/
+and measure ads, the SDK processes device and usage information such as the device model, OS version, IP address and
+the advertising identifier: on iPhone (IDFA) only if you allow it in the system "Allow Tracking" prompt — you can change
+this at any time in Settings → Privacy & Security → Tracking; on Android, the device advertising ID, which you can reset
+or delete at any time in the system settings (Google → Ads, or Privacy → Ads). Yandex privacy policy: https://yandex.com/legal/confidential/
 Your games are never shared with the advertising network.
 
 ## Children
@@ -41,16 +42,18 @@ _Дата обновления: 20 октября 2026 г._
 Приложение «Буквица» («приложение») разработано Дмитрием Шуневичем.
 
 **Ваши игры никогда не покидают устройство.** У нас нет серверов и аккаунтов. Догадки, статистика и настройки
-хранятся только на вашем iPhone. Единственный сторонний сервис в приложении — реклама Яндекса, о ней ниже.
+хранятся только на вашем устройстве (iPhone или Android-телефоне). Единственный сторонний сервис в приложении — реклама Яндекса, о ней ниже.
 
 ## «Поделиться»
 По кнопке «Поделиться» приложение создаёт на устройстве текст с цветными квадратами; куда его отправить, решаете вы.
 
 ## Реклама
 Приложение бесплатное и показывает рекламу Рекламной сети Яндекса (ООО «ЯНДЕКС») через Yandex Mobile Ads SDK. Для показа
-и измерения рекламы SDK обрабатывает сведения об устройстве и использовании: модель устройства, версию ОС, IP-адрес и,
-только если вы разрешите это в системном запросе «Разрешить отслеживание», рекламный идентификатор (IDFA). Изменить
-выбор можно в любой момент: Настройки → Конфиденциальность и безопасность → Отслеживание. Политика Яндекса:
+и измерения рекламы SDK обрабатывает сведения об устройстве и использовании: модель устройства, версию ОС, IP-адрес и
+рекламный идентификатор: на iPhone (IDFA) — только если вы разрешите это в системном запросе «Разрешить отслеживание»,
+изменить выбор можно в любой момент: Настройки → Конфиденциальность и безопасность → Отслеживание; на Android — рекламный
+идентификатор устройства, который можно сбросить или удалить в настройках системы (Google → Реклама или
+Конфиденциальность → Реклама). Политика Яндекса:
 https://yandex.ru/legal/confidential/ Ваши игры никогда не передаются рекламной сети.
 
 ## Дети
