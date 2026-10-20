@@ -26,6 +26,7 @@ title: Apps by Dmitriy Shunevich
 - [Soonday — Privacy Policy](soonday/privacy) · [Политика конфиденциальности](soonday/privacy#ru)
 - [Bukvitsa — Privacy Policy](bukvitsa/privacy) · [Политика конфиденциальности](bukvitsa/privacy#ru)
 - [Slovodel — Privacy Policy](slovodel/privacy) · [Политика конфиденциальности](slovodel/privacy#ru)
+- [Kletka — Privacy Policy](kletka/privacy) · [Политика конфиденциальности](kletka/privacy#ru)
 
 ## Support · Поддержка
 
