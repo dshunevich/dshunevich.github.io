@@ -24,6 +24,7 @@ title: Apps by Dmitriy Shunevich
 - [Pagecraft — Privacy Policy](pagecraft/privacy) · [Политика конфиденциальности](pagecraft/privacy#ru)
 - [Fernly — Privacy Policy](fernly/privacy) · [Политика конфиденциальности](fernly/privacy#ru)
 - [Soonday — Privacy Policy](soonday/privacy) · [Политика конфиденциальности](soonday/privacy#ru)
+- [Bukvitsa — Privacy Policy](bukvitsa/privacy) · [Политика конфиденциальности](bukvitsa/privacy#ru)
 
 ## Support · Поддержка
 
