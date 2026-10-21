@@ -9,12 +9,12 @@ _Last updated: October 16, 2026_
 Wellsip ("the app") is developed by Dmitriy Shunevich.
 
 **Your data never leaves your device.** We do not have servers or accounts. Your drinks, daily goal, weight (if you
-enter it) and history are stored only on your iPhone, in a container shared with the app's widget. The app does not use
-HealthKit. The only third-party service in the app
+enter it) and history are stored only on your device (on iPhone — in a container shared with the app's widget). The app does not use
+HealthKit or Google Fit. The only third-party service in the app
 is advertising from Yandex, described below.
 
 ## Your data
-Everything you enter is saved on your iPhone and included in your regular backup. Deleting the app deletes it.
+Everything you enter is saved on your device and included in your regular backup. Deleting the app deletes it.
 We never receive it.
 
 ## Notifications
@@ -52,11 +52,11 @@ _Дата обновления: 16 октября 2026 г._
 Приложение Wellsip («приложение») разработано Дмитрием Шуневичем.
 
 **Ваши данные никогда не покидают устройство.** У нас нет серверов и аккаунтов. Напитки, норма, вес (если вы его
-укажете) и история хранятся только на вашем iPhone — в хранилище, общем с виджетом приложения. Приложение не использует «Здоровье» (HealthKit). Единственный сторонний сервис в
+укажете) и история хранятся только на вашем устройстве (на iPhone — в хранилище, общем с виджетом приложения). Приложение не использует «Здоровье» (HealthKit) и Google Fit. Единственный сторонний сервис в
 приложении — реклама Яндекса, о ней ниже.
 
 ## Ваши данные
-Всё, что вы вводите, хранится на iPhone и входит в обычную резервную копию. При удалении приложения данные
+Всё, что вы вводите, хранится на устройстве и входит в обычную резервную копию. При удалении приложения данные
 удаляются. Мы их не получаем.
 
 ## Уведомления
@@ -69,10 +69,10 @@ _Дата обновления: 16 октября 2026 г._
 изменить выбор можно в любой момент: Настройки → Конфиденциальность и безопасность → Отслеживание; на Android — рекламный
 идентификатор устройства, который можно сбросить или удалить в настройках системы (Google → Реклама или
 Конфиденциальность → Реклама). Политика Яндекса:
-https://yandex.ru/legal/confidential/ Напитки и вес никогда не передаются рекламной сети. Покупка Pro отключает рекламу.
+https://yandex.ru/legal/confidential/ Напитки и вес никогда не передаются рекламной сети.
 
 ## Покупки
-Покупки обрабатывает Apple. Мы не получаем и не храним платёжные данные.
+В приложении нет покупок. Мы не получаем и не храним платёжные данные.
 
 ## Дети
 Приложение не предназначено для детей младше 13 лет и сознательно не собирает их персональные данные.
