@@ -9,11 +9,11 @@ _Last updated: October 16, 2026_
 Subkeep ("the app") is developed by Dmitriy Shunevich.
 
 **Your data never leaves your device.** We do not have servers or accounts, and the app never connects to your bank.
-The subscriptions, prices and notes you enter are stored only on your iPhone. The only third-party service in the app
+The subscriptions, prices and notes you enter are stored only on your device (iPhone or Android phone). The only third-party service in the app
 is advertising from Yandex, described below.
 
 ## Your data
-Everything you enter is saved on your iPhone and included in your regular backup. Deleting the app deletes it.
+Everything you enter is saved on your device and included in your regular backup. Deleting the app deletes it.
 We never receive it.
 
 ## Notifications
@@ -22,13 +22,14 @@ Nothing is sent to us.
 
 ## Advertising
 The app is free and shows ads from Yandex Advertising Network (YANDEX LLC) via the Yandex Mobile Ads SDK. To show
-and measure ads, the SDK processes device and usage information such as the device model, OS version, IP address and,
-only if you allow it in the system "Allow Tracking" prompt, the advertising identifier (IDFA). You can change this at
-any time in Settings → Privacy & Security → Tracking. Yandex privacy policy: https://yandex.com/legal/confidential/
-Your subscriptions and amounts are never shared with the advertising network. Buying Pro removes all ads.
+and measure ads, the SDK processes device and usage information such as the device model, OS version, IP address and
+the advertising identifier: on iPhone (IDFA) only if you allow it in the system "Allow Tracking" prompt — you can change
+this at any time in Settings → Privacy & Security → Tracking; on Android, the device advertising ID, which you can reset
+or delete at any time in the system settings (Google → Ads, or Privacy → Ads). Yandex privacy policy: https://yandex.com/legal/confidential/
+Your subscriptions and amounts are never shared with the advertising network.
 
 ## Purchases
-Purchases are processed by Apple. We do not receive or store your payment details.
+The app has no purchases. We do not receive or store payment details.
 
 ## Children
 The app is not directed to children under 13 and does not knowingly collect personal data of children.
@@ -50,11 +51,11 @@ _Дата обновления: 16 октября 2026 г._
 Приложение Subkeep («приложение») разработано Дмитрием Шуневичем.
 
 **Ваши данные никогда не покидают устройство.** У нас нет серверов и аккаунтов, приложение не подключается к банку.
-Подписки, суммы и заметки, которые вы вводите, хранятся только на вашем iPhone. Единственный сторонний сервис в
+Подписки, суммы и заметки, которые вы вводите, хранятся только на вашем устройстве (iPhone или Android-телефоне). Единственный сторонний сервис в
 приложении — реклама Яндекса, о ней ниже.
 
 ## Ваши данные
-Всё, что вы вводите, хранится на iPhone и входит в обычную резервную копию. При удалении приложения данные
+Всё, что вы вводите, хранится на устройстве и входит в обычную резервную копию. При удалении приложения данные
 удаляются. Мы их не получаем.
 
 ## Уведомления
@@ -63,13 +64,15 @@ _Дата обновления: 16 октября 2026 г._
 
 ## Реклама
 Приложение бесплатное и показывает рекламу Рекламной сети Яндекса (ООО «ЯНДЕКС») через Yandex Mobile Ads SDK. Для показа
-и измерения рекламы SDK обрабатывает сведения об устройстве и использовании: модель устройства, версию ОС, IP-адрес и,
-только если вы разрешите это в системном запросе «Разрешить отслеживание», рекламный идентификатор (IDFA). Изменить
-выбор можно в любой момент: Настройки → Конфиденциальность и безопасность → Отслеживание. Политика Яндекса:
-https://yandex.ru/legal/confidential/ Подписки и суммы никогда не передаются рекламной сети. Покупка Pro отключает рекламу.
+и измерения рекламы SDK обрабатывает сведения об устройстве и использовании: модель устройства, версию ОС, IP-адрес и
+рекламный идентификатор: на iPhone (IDFA) — только если вы разрешите это в системном запросе «Разрешить отслеживание»,
+изменить выбор можно в любой момент: Настройки → Конфиденциальность и безопасность → Отслеживание; на Android — рекламный
+идентификатор устройства, который можно сбросить или удалить в настройках системы (Google → Реклама или
+Конфиденциальность → Реклама). Политика Яндекса:
+https://yandex.ru/legal/confidential/ Подписки и суммы никогда не передаются рекламной сети.
 
 ## Покупки
-Покупки обрабатывает Apple. Мы не получаем и не храним платёжные данные.
+В приложении нет покупок. Мы не получаем и не храним платёжные данные.
 
 ## Дети
 Приложение не предназначено для детей младше 13 лет и сознательно не собирает их персональные данные.
