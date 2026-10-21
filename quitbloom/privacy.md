@@ -13,7 +13,7 @@ savings goal, cravings and slips are stored only on your device (iPhone or Andro
 advertising from Yandex, described below.
 
 ## Your data
-Everything you enter is saved in the app's private storage on your device and is included in your regular iPhone
+Everything you enter is saved in the app's private storage on your device and is included in your regular device
 backup. You can delete it at any time in Settings → Erase all data, or by deleting the app. We never receive it.
 
 ## Notifications
@@ -59,7 +59,7 @@ _Дата обновления: 15 октября 2026 г._
 
 ## Ваши данные
 Всё, что вы вводите, сохраняется в закрытом хранилище приложения на устройстве и входит в обычную резервную копию
-iPhone. Удалить данные можно в любой момент: Настройки → «Удалить все данные» или удалив приложение. Мы их не получаем.
+устройства. Удалить данные можно в любой момент: Настройки → «Удалить все данные» или удалив приложение. Мы их не получаем.
 
 ## Уведомления
 Если вы включите уведомления об этапах, приложение запланирует локальные уведомления на устройстве. Нам ничего
