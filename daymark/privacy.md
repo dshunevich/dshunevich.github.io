@@ -14,7 +14,7 @@ advertising from Yandex, described below.
 
 ## Your data
 Everything you enter is saved in storage shared only between the app and its widgets on your device, and is
-included in your regular iPhone backup. You can delete it at any time in Settings → Erase all data, or by deleting the app. We never receive it.
+included in your regular device backup. You can delete it at any time in Settings → Erase all data, or by deleting the app. We never receive it.
 
 ## Notifications
 If you set a reminder for a habit, the app schedules local notifications on your device. Nothing is sent to us.
@@ -55,7 +55,7 @@ _Дата обновления: 15 октября 2026 г._
 
 ## Ваши данные
 Всё, что вы вводите, сохраняется в хранилище на устройстве, доступном только приложению и его виджетам, и входит
-в обычную резервную копию iPhone. Удалить данные можно в любой момент: Настройки → «Удалить все данные» или удалив приложение. Мы их не получаем.
+в обычную резервную копию устройства. Удалить данные можно в любой момент: Настройки → «Удалить все данные» или удалив приложение. Мы их не получаем.
 
 ## Уведомления
 Если вы зададите напоминание для привычки, приложение запланирует локальные уведомления на устройстве. Нам ничего
