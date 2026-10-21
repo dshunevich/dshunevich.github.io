@@ -23,13 +23,14 @@ Nothing is sent to us.
 
 ## Advertising
 The app is free and shows ads from Yandex Advertising Network (YANDEX LLC) via the Yandex Mobile Ads SDK. To show
-and measure ads, the SDK processes device and usage information such as the device model, OS version, IP address and,
-only if you allow it in the system "Allow Tracking" prompt, the advertising identifier (IDFA). You can change this at
-any time in Settings → Privacy & Security → Tracking. Yandex privacy policy: https://yandex.com/legal/confidential/
-Your drinks and weight are never shared with the advertising network. Buying Pro removes all ads.
+and measure ads, the SDK processes device and usage information such as the device model, OS version, IP address and
+the advertising identifier: on iPhone (IDFA) only if you allow it in the system "Allow Tracking" prompt — you can change
+this at any time in Settings → Privacy & Security → Tracking; on Android, the device advertising ID, which you can reset
+or delete at any time in the system settings (Google → Ads, or Privacy → Ads). Yandex privacy policy: https://yandex.com/legal/confidential/
+Your drinks and weight are never shared with the advertising network.
 
 ## Purchases
-Purchases are processed by Apple. We do not receive or store your payment details.
+The app has no purchases. We do not receive or store payment details.
 
 ## Children
 The app is not directed to children under 13 and does not knowingly collect personal data of children.
@@ -63,9 +64,11 @@ _Дата обновления: 16 октября 2026 г._
 
 ## Реклама
 Приложение бесплатное и показывает рекламу Рекламной сети Яндекса (ООО «ЯНДЕКС») через Yandex Mobile Ads SDK. Для показа
-и измерения рекламы SDK обрабатывает сведения об устройстве и использовании: модель устройства, версию ОС, IP-адрес и,
-только если вы разрешите это в системном запросе «Разрешить отслеживание», рекламный идентификатор (IDFA). Изменить
-выбор можно в любой момент: Настройки → Конфиденциальность и безопасность → Отслеживание. Политика Яндекса:
+и измерения рекламы SDK обрабатывает сведения об устройстве и использовании: модель устройства, версию ОС, IP-адрес и
+рекламный идентификатор: на iPhone (IDFA) — только если вы разрешите это в системном запросе «Разрешить отслеживание»,
+изменить выбор можно в любой момент: Настройки → Конфиденциальность и безопасность → Отслеживание; на Android — рекламный
+идентификатор устройства, который можно сбросить или удалить в настройках системы (Google → Реклама или
+Конфиденциальность → Реклама). Политика Яндекса:
 https://yandex.ru/legal/confidential/ Напитки и вес никогда не передаются рекламной сети. Покупка Pro отключает рекламу.
 
 ## Покупки
