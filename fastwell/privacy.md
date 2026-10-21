@@ -12,24 +12,25 @@ Fastwell ("the app") is developed by Dmitriy Shunevich.
 fasting history. The only third-party service in the app is advertising from Yandex, described below.
 
 ## Your fasting data
-Your fasts, plans and settings are stored only on your device and may be included in your device backup (iCloud
+Your fasts, plans and settings are stored only on your device and may be included in your device backup (iCloud, Google
 or computer) according to your device settings. Deleting a fast in the app removes it from your device.
 
 ## Notifications
-If you turn on reminders, notifications are scheduled locally on your iPhone. Nothing is sent to a server.
+If you turn on reminders, notifications are scheduled locally on your device. Nothing is sent to a server.
 
 ## Health information
 Fastwell is a timer and a journal and does not provide medical advice.
 
 ## Advertising
 The app is free and shows ads from Yandex Advertising Network (YANDEX LLC) via the Yandex Mobile Ads SDK. To show
-and measure ads, the SDK processes device and usage information such as the device model, OS version, IP address and,
-only if you allow it in the system "Allow Tracking" prompt, the advertising identifier (IDFA). You can change this at
-any time in Settings → Privacy & Security → Tracking. Yandex privacy policy: https://yandex.com/legal/confidential/
-Your content is never shared with the advertising network. Buying Pro removes all ads.
+and measure ads, the SDK processes device and usage information such as the device model, OS version, IP address and
+the advertising identifier: on iPhone (IDFA) only if you allow it in the system "Allow Tracking" prompt — you can change
+this at any time in Settings → Privacy & Security → Tracking; on Android, the device advertising ID, which you can reset
+or delete at any time in the system settings (Google → Ads, or Privacy → Ads). Yandex privacy policy: https://yandex.com/legal/confidential/
+Your content is never shared with the advertising network.
 
 ## Purchases
-Purchases are processed by Apple. We do not receive or store your payment details.
+The app has no purchases. We do not receive or store payment details.
 
 ## Children
 The app is not directed to children under 13 and does not knowingly collect personal data of children.
@@ -55,11 +56,11 @@ _Дата обновления: 15 октября 2026 г._
 
 ## Данные о голодании
 Ваши голодания, планы и настройки хранятся только на вашем устройстве и могут попадать в резервную копию
-устройства (iCloud или компьютер) в соответствии с его настройками. Удаление голодания в приложении удаляет его
+устройства (iCloud, Google или компьютер) в соответствии с его настройками. Удаление голодания в приложении удаляет его
 с устройства.
 
 ## Уведомления
-Если вы включили напоминания, уведомления планируются локально на iPhone. На сервер ничего не отправляется.
+Если вы включили напоминания, уведомления планируются локально на устройстве. На сервер ничего не отправляется.
 
 ## Информация о здоровье
 Fastwell — это таймер и дневник, приложение не даёт медицинских рекомендаций.
@@ -67,13 +68,15 @@ Fastwell — это таймер и дневник, приложение не д
 ## Реклама
 Приложение бесплатное и показывает рекламу Рекламной сети Яндекса (ООО «ЯНДЕКС») через Yandex Mobile Ads SDK. Чтобы
 показывать и измерять рекламу, SDK обрабатывает сведения об устройстве и использовании: модель устройства, версию ОС,
-IP-адрес и — только если вы разрешили это в системном запросе «Разрешить отслеживание» — рекламный идентификатор
-(IDFA). Изменить выбор можно в любой момент: Настройки → Конфиденциальность и безопасность → Отслеживание. Политика
+IP-адрес и рекламный идентификатор: на iPhone (IDFA) — только если вы разрешили это в системном запросе
+«Разрешить отслеживание», изменить выбор можно в любой момент: Настройки → Конфиденциальность и безопасность →
+Отслеживание; на Android — рекламный идентификатор устройства, который можно сбросить или удалить в настройках системы
+(Google → Реклама или Конфиденциальность → Реклама). Политика
 конфиденциальности Яндекса: https://yandex.ru/legal/confidential/
-Ваши материалы никогда не передаются рекламной сети. Покупка Pro полностью отключает рекламу.
+Ваши материалы никогда не передаются рекламной сети.
 
 ## Покупки
-Покупки обрабатывает Apple. Мы не получаем и не храним ваши платёжные данные.
+В приложении нет покупок. Мы не получаем и не храним платёжные данные.
 
 ## Дети
 Приложение не предназначено для детей младше 13 лет и сознательно не собирает персональные данные детей.
