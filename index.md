@@ -33,6 +33,7 @@ title: Apps by Dmitriy Shunevich
 - [Stopline — Privacy Policy](stopline/privacy) · [Политика конфиденциальности](stopline/privacy#ru)
 - [Kinovar — Privacy Policy](kinovar/privacy) · [Политика конфиденциальности](kinovar/privacy#ru)
 - [Sumie — Privacy Policy](sumie/privacy) · [Политика конфиденциальности](sumie/privacy#ru)
+- [Nominal — Privacy Policy](nominal/privacy) · [Политика конфиденциальности](nominal/privacy#ru)
 
 ## Support · Поддержка
 
