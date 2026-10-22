@@ -30,6 +30,7 @@ title: Apps by Dmitriy Shunevich
 - [Kosynka — Privacy Policy](kosynka/privacy) · [Политика конфиденциальности](kosynka/privacy#ru)
 - [Izvilina — Privacy Policy](izvilina/privacy) · [Политика конфиденциальности](izvilina/privacy#ru)
 - [Smalta — Privacy Policy](smalta/privacy) · [Политика конфиденциальности](smalta/privacy#ru)
+- [Stopline — Privacy Policy](stopline/privacy) · [Политика конфиденциальности](stopline/privacy#ru)
 
 ## Support · Поддержка
 
