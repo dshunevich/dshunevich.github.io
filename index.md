@@ -31,6 +31,7 @@ title: Apps by Dmitriy Shunevich
 - [Izvilina — Privacy Policy](izvilina/privacy) · [Политика конфиденциальности](izvilina/privacy#ru)
 - [Smalta — Privacy Policy](smalta/privacy) · [Политика конфиденциальности](smalta/privacy#ru)
 - [Stopline — Privacy Policy](stopline/privacy) · [Политика конфиденциальности](stopline/privacy#ru)
+- [Kinovar — Privacy Policy](kinovar/privacy) · [Политика конфиденциальности](kinovar/privacy#ru)
 
 ## Support · Поддержка
 
