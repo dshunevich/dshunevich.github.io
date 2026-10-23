@@ -34,6 +34,7 @@ title: Apps by Dmitriy Shunevich
 - [Kinovar — Privacy Policy](kinovar/privacy) · [Политика конфиденциальности](kinovar/privacy#ru)
 - [Sumie — Privacy Policy](sumie/privacy) · [Политика конфиденциальности](sumie/privacy#ru)
 - [Nominal — Privacy Policy](nominal/privacy) · [Политика конфиденциальности](nominal/privacy#ru)
+- [Pyatidnevka — Privacy Policy](pyatidnevka/privacy) · [Политика конфиденциальности](pyatidnevka/privacy#ru)
 
 ## Support · Поддержка
 
