@@ -35,6 +35,7 @@ title: Apps by Dmitriy Shunevich
 - [Sumie — Privacy Policy](sumie/privacy) · [Политика конфиденциальности](sumie/privacy#ru)
 - [Nominal — Privacy Policy](nominal/privacy) · [Политика конфиденциальности](nominal/privacy#ru)
 - [Pyatidnevka — Privacy Policy](pyatidnevka/privacy) · [Политика конфиденциальности](pyatidnevka/privacy#ru)
+- [Smetka — Privacy Policy](smetka/privacy) · [Политика конфиденциальности](smetka/privacy#ru)
 
 ## Support · Поддержка
 
