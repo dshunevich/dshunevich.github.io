@@ -38,6 +38,7 @@ title: Apps by Dmitriy Shunevich
 - [Smetka — Privacy Policy](smetka/privacy) · [Политика конфиденциальности](smetka/privacy#ru)
 - [Schitka — Privacy Policy](schitka/privacy) · [Политика конфиденциальности](schitka/privacy#ru)
 - [Zhivinka — Privacy Policy](zhivinka/privacy) · [Политика конфиденциальности](zhivinka/privacy#ru)
+- [Promokashka — Privacy Policy](promokashka/privacy) · [Политика конфиденциальности](promokashka/privacy#ru)
 
 ## Support · Поддержка
 
