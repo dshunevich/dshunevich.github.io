@@ -35,6 +35,9 @@ shared with the advertising network.
 The app does not make payments and is not affiliated with any bank. It only displays the payment details contained in a
 QR code; you can pay in your bank's app.
 
+## Purchases
+The app has no purchases. We do not receive or store payment details.
+
 ## Children
 The app is not directed to children under 13 and does not knowingly collect personal data of children.
 
@@ -81,6 +84,9 @@ SDK использует рекламный идентификатор устр�
 ## Платежи
 Приложение не проводит платежи и не связано с банками. Оно только показывает реквизиты, записанные в QR-коде; оплатить
 можно в приложении своего банка.
+
+## Покупки
+В приложении нет покупок. Мы не получаем и не храним платёжные данные.
 
 ## Дети
 Приложение не предназначено для детей младше 13 лет и сознательно не собирает их персональные данные.

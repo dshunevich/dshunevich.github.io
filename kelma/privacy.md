@@ -26,6 +26,9 @@ https://yandex.com/legal/confidential/ Your projects and calculations are never 
 ## Approximate calculations
 Calculations are approximate; check material consumption with the manufacturer.
 
+## In-app purchases
+The app has no in-app purchases. We do not receive or store payment details.
+
 ## Children
 The app is not directed to children under 13 and does not knowingly collect personal data of children.
 
@@ -63,6 +66,9 @@ Android-телефоне). Список покупок текстом или в 
 
 ## Приблизительный расчёт
 Расчёт приблизительный, уточняйте расход у производителя.
+
+## Встроенные покупки
+В приложении нет встроенных покупок. Мы не получаем и не храним платёжные данные.
 
 ## Дети
 Приложение не предназначено для детей младше 13 лет и сознательно не собирает их персональные данные.

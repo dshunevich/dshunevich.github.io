@@ -32,6 +32,9 @@ network.
 The data comes from the Labour Code of the Russian Federation (Article 112) and the Government decrees on moving days
 off. The app is for information only and is not legal advice.
 
+## Purchases
+The app has no purchases. We do not receive or store payment details.
+
 ## Children
 The app is not directed to children under 13 and does not knowingly collect personal data of children.
 
@@ -74,6 +77,9 @@ _Дата обновления: 22 октября 2026 г._
 ## Не юридическая консультация
 Данные: Трудовой кодекс РФ (ст. 112) и постановления Правительства РФ о переносе выходных дней. Приложение носит
 справочный характер и не является юридической консультацией.
+
+## Покупки
+В приложении нет покупок. Мы не получаем и не храним платёжные данные.
 
 ## Дети
 Приложение не предназначено для детей младше 13 лет и сознательно не собирает их персональные данные.

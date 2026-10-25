@@ -35,6 +35,9 @@ advertising network.
 ## Not financial advice
 Data: Bank of Russia. The app is for information only and is not an investment recommendation.
 
+## Purchases
+The app has no purchases. We do not receive or store payment details.
+
 ## Children
 The app is not directed to children under 13 and does not knowingly collect personal data of children.
 
@@ -80,6 +83,9 @@ www.cbr-xml-daily.ru. В этих запросах передаются толь
 
 ## Не инвестиционная рекомендация
 Данные: Банк России. Не является инвестиционной рекомендацией. Приложение носит справочный характер.
+
+## Покупки
+В приложении нет покупок. Мы не получаем и не храним платёжные данные.
 
 ## Дети
 Приложение не предназначено для детей младше 13 лет и сознательно не собирает их персональные данные.

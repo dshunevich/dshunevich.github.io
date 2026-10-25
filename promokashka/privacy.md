@@ -19,6 +19,9 @@ this at any time in Settings → Privacy & Security → Tracking; on Android, th
 or delete at any time in the system settings (Google → Ads, or Privacy → Ads). Yandex privacy policy: https://yandex.com/legal/confidential/
 Your games and statistics are never shared with the advertising network.
 
+## Purchases
+The app has no purchases. We do not receive or store payment details.
+
 ## Children
 The app is not directed to children under 13 and does not knowingly collect personal data of children.
 
@@ -49,6 +52,9 @@ _Дата обновления: 22 октября 2026 г._
 идентификатор устройства, который можно сбросить или удалить в настройках системы (Google → Реклама или
 Конфиденциальность → Реклама). Политика Яндекса:
 https://yandex.ru/legal/confidential/ Ваши партии и статистика никогда не передаются рекламной сети.
+
+## Покупки
+В приложении нет покупок. Мы не получаем и не храним платёжные данные.
 
 ## Дети
 Приложение не предназначено для детей младше 13 лет и сознательно не собирает их персональные данные.

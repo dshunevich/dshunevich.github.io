@@ -26,6 +26,9 @@ network.
 ## Not financial advice
 Calculations are approximate, are not an offer or a financial recommendation, and a bank's terms may differ.
 
+## Purchases
+The app has no purchases. We do not receive or store payment details.
+
 ## Children
 The app is not directed to children under 13 and does not knowingly collect personal data of children.
 
@@ -62,6 +65,9 @@ https://yandex.ru/legal/confidential/ Ваши расчёты никогда н�
 
 ## Не финансовая рекомендация
 Расчёт приблизительный, не является офертой или финансовой рекомендацией; условия банка могут отличаться.
+
+## Покупки
+В приложении нет покупок. Мы не получаем и не храним платёжные данные.
 
 ## Дети
 Приложение не предназначено для детей младше 13 лет и сознательно не собирает их персональные данные.
