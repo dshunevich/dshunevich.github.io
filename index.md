@@ -41,6 +41,7 @@ title: Apps by Dmitriy Shunevich
 - [Promokashka — Privacy Policy](promokashka/privacy) · [Политика конфиденциальности](promokashka/privacy#ru)
 - [Versta — Privacy Policy](versta/privacy) · [Политика конфиденциальности](versta/privacy#ru)
 - [Kelma — Privacy Policy](kelma/privacy) · [Политика конфиденциальности](kelma/privacy#ru)
+- [Etyudnik — Privacy Policy](etyudnik/privacy) · [Политика конфиденциальности](etyudnik/privacy#ru)
 
 ## Support · Поддержка
 
