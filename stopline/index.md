@@ -16,7 +16,7 @@ In the app: «О приложении» (i icon) → «Написать разр
 
 ## Report an ad
 If you saw an inappropriate ad, write to dmitriyshunevich@gmail.com with a short description (a screenshot helps).
-In the app: «О приложении» → «Написать разработчику».
+In the app: «О приложении» → «Пожаловаться на рекламу».
 
 ## FAQ
 **How does the hint work?** In practice, tap «Подсказка: показать правильный ответ»: a short ad plays, then the correct
@@ -44,6 +44,6 @@ answer is shown. If no ad is available, the hint is free.
 
 ## Пожаловаться на рекламу
 Если вы увидели неприемлемое объявление, напишите на dmitriyshunevich@gmail.com (поможет скриншот).
-В приложении: «О приложении» → «Написать разработчику».
+В приложении: «О приложении» → «Пожаловаться на рекламу».
 
 - [Политика конфиденциальности](privacy#ru)

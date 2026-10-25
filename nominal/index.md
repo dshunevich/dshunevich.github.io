@@ -15,7 +15,7 @@ In the app: Rates → (i) → "Написать разработчику".
 
 ## Report an ad
 If you saw an inappropriate ad, write to dmitriyshunevich@gmail.com with a short description (a screenshot helps) —
-in the app: Rates → (i) → "Написать разработчику".
+in the app: Rates → (i) → "Пожаловаться на рекламу".
 
 ## FAQ
 **Where do the rates come from?** From the public files on www.cbr.ru. The app is not affiliated with the Bank of Russia
@@ -47,6 +47,6 @@ currencies, the medium one shows four. Change the order with "Править" in
 
 ## Пожаловаться на рекламу
 Если вы увидели неприемлемое объявление, напишите на dmitriyshunevich@gmail.com (поможет скриншот) — в приложении:
-«Курсы» → (i) → «Написать разработчику».
+«Курсы» → (i) → «Пожаловаться на рекламу».
 
 - [Политика конфиденциальности](privacy#ru)

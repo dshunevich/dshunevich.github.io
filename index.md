@@ -50,4 +50,6 @@ I usually answer within two days.
 Вопросы, ошибки и пожелания — пишите на [dmitriyshunevich@gmail.com](mailto:dmitriyshunevich@gmail.com).
 Обычно отвечаю в течение двух дней.
 
-**Restore purchases / Восстановить покупки:** Settings → Restore Purchases in the app · Настройки → «Восстановить покупки» в приложении.
+**Purchases / Покупки:** the apps have no in-app purchases; they are free and supported by ads · В приложениях нет покупок: они бесплатные и работают за счёт рекламы.
+
+**Report an ad / Пожаловаться на рекламу:** Settings → Report an Ad in the app, or email us · Настройки → «Пожаловаться на рекламу» в приложении или письмо на почту выше.

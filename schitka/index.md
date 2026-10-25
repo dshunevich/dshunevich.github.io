@@ -16,7 +16,7 @@ In the app: Scanner → (i) → "Написать разработчику".
 
 ## Report an ad
 If you saw an inappropriate ad, write to dmitriyshunevich@gmail.com with a short description (a screenshot helps) —
-in the app: Scanner → (i) → "Написать разработчику".
+in the app: Scanner → (i) → "Пожаловаться на рекламу".
 
 ## FAQ
 **Can I pay a bill in Schitka?** No. Schitka only shows and checks the payment details in the code; pay in your bank's app.
@@ -48,6 +48,6 @@ digit and offers a web search.
 
 ## Пожаловаться на рекламу
 Если вы увидели неприемлемое объявление, напишите на dmitriyshunevich@gmail.com (поможет скриншот) — в приложении:
-«Сканер» → (i) → «Написать разработчику».
+«Сканер» → (i) → «Пожаловаться на рекламу».
 
 - [Политика конфиденциальности](privacy#ru)

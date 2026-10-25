@@ -16,7 +16,7 @@ In the app: Loan → (i) → "Написать разработчику".
 
 ## Report an ad
 If you saw an inappropriate ad, write to dmitriyshunevich@gmail.com with a short description (a screenshot helps) —
-in the app: Loan → (i) → "Написать разработчику".
+in the app: Loan → (i) → "Пожаловаться на рекламу".
 
 ## FAQ
 **Why does my bank's payment differ by a few rubles?** Banks round and count days differently. Smetka shows the method it
@@ -45,6 +45,6 @@ calculation is approximate and is not an offer or financial advice.
 
 ## Пожаловаться на рекламу
 Если вы увидели неприемлемое объявление, напишите на dmitriyshunevich@gmail.com (поможет скриншот) — в приложении:
-«Кредит» → (i) → «Написать разработчику».
+«Кредит» → (i) → «Пожаловаться на рекламу».
 
 - [Политика конфиденциальности](privacy#ru)

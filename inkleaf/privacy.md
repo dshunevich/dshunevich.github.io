@@ -4,7 +4,7 @@ title: Inkleaf — Privacy Policy
 
 # Inkleaf — Privacy Policy
 
-_Last updated: October 21, 2026_
+_Last updated: October 24, 2026_
 
 Inkleaf ("the app") is developed by Dmitriy Shunevich.
 
@@ -28,11 +28,10 @@ and measure ads, the SDK processes device and usage information such as the devi
 the advertising identifier: on iPhone (IDFA) only if you allow it in the system "Allow Tracking" prompt — you can change
 this at any time in Settings → Privacy & Security → Tracking; on Android, the device advertising ID, which you can reset
 or delete at any time in the system settings (Google → Ads, or Privacy → Ads). Yandex privacy policy:
-https://yandex.com/legal/confidential/ Your documents and signatures are never shared with the advertising network. On iPhone, buying Pro removes all ads.
+https://yandex.com/legal/confidential/ Your documents and signatures are never shared with the advertising network.
 
 ## Purchases
-On iPhone, purchases are processed by Apple. We do not receive or store your payment details. On Android the app has no
-purchases.
+The app has no purchases. All features are free. We do not receive or store payment details.
 
 ## Children
 The app is not directed to children under 13 and does not knowingly collect personal data of children.
@@ -49,7 +48,7 @@ dmitriyshunevich@gmail.com
 
 # Inkleaf — Политика конфиденциальности
 
-_Дата обновления: 21 октября 2026 г._
+_Дата обновления: 24 октября 2026 г._
 
 Приложение Inkleaf («приложение») разработано Дмитрием Шуневичем.
 
@@ -75,10 +74,10 @@ _Дата обновления: 21 октября 2026 г._
 изменить выбор можно в любой момент: Настройки → Конфиденциальность и безопасность → Отслеживание; на Android —
 рекламный идентификатор устройства, который можно сбросить или удалить в настройках системы (Google → Реклама или
 Конфиденциальность → Реклама). Политика Яндекса: https://yandex.ru/legal/confidential/ Документы и подписи никогда
-не передаются рекламной сети. На iPhone покупка Pro отключает рекламу.
+не передаются рекламной сети.
 
 ## Покупки
-На iPhone покупки обрабатывает Apple. Мы не получаем и не храним платёжные данные. На Android в приложении нет покупок.
+В приложении нет покупок. Все функции бесплатны. Мы не получаем и не храним платёжные данные.
 
 ## Дети
 Приложение не предназначено для детей младше 13 лет и сознательно не собирает их персональные данные.

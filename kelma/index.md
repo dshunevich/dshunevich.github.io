@@ -17,7 +17,7 @@ In the app: ⓘ on the main screen («Как считается») → «Нап�
 
 ## Report an ad
 If you saw an inappropriate ad, write to dmitriyshunevich@gmail.com with a short description (a screenshot helps).
-In the app: ⓘ on the main screen → «Написать разработчику».
+In the app: ⓘ on the main screen → «Пожаловаться на рекламу».
 
 ## FAQ
 **Why is the wallpaper count different from other calculators?** Kelma counts strips for every wall, matches the
@@ -48,7 +48,7 @@ added up before rounding to whole packs.
 
 ## Пожаловаться на рекламу
 Если вы увидели неприемлемое объявление, напишите на dmitriyshunevich@gmail.com (поможет скриншот). В приложении:
-ⓘ на главном экране → «Написать разработчику».
+ⓘ на главном экране → «Пожаловаться на рекламу».
 
 ## Вопросы и ответы
 **Почему обоев получается не так, как в других калькуляторах?** «Кельма» считает полосы по каждой стене, подгоняет

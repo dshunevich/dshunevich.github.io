@@ -15,7 +15,7 @@ In the app: Today → (i) → "Написать разработчику".
 
 ## Report an ad
 If you saw an inappropriate ad, write to dmitriyshunevich@gmail.com with a short description (a screenshot helps) —
-in the app: Today → (i) → "Написать разработчику".
+in the app: Today → (i) → "Пожаловаться на рекламу".
 
 ## FAQ
 **Where does the data come from?** From the Labour Code of the Russian Federation (Art. 112) and the Government decrees on
@@ -48,6 +48,6 @@ set every year by separate acts and are not included.
 
 ## Пожаловаться на рекламу
 Если вы увидели неприемлемое объявление, напишите на dmitriyshunevich@gmail.com (поможет скриншот) — в приложении:
-«Сегодня» → (i) → «Написать разработчику».
+«Сегодня» → (i) → «Пожаловаться на рекламу».
 
 - [Политика конфиденциальности](privacy#ru)
