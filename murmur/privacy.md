@@ -9,12 +9,17 @@ _Last updated: October 16, 2026_
 Murmur ("the app") is developed by Dmitriy Shunevich.
 
 **Your data never leaves your device.** We do not have servers or accounts. Sounds are generated on your device (iPhone or Android phone), and
-your saved mixes and settings are stored only on it. The only third-party service in the app is advertising from
+your saved mixes and settings are stored only on it. The third-party services in the app are anonymous usage analytics and advertising from
 Yandex, described below.
 
 ## Your data
 Saved mixes and the last sounds you played are stored on your device and included in your regular backup. Deleting
 the app deletes them. We never receive them. The app does not use the microphone.
+
+## Analytics
+The app uses AppMetrica (YANDEX LLC) to collect anonymous usage statistics (which screens are opened, ad
+interactions). This data is not linked to your identity and is used only to improve the app.
+AppMetrica privacy policy: https://yandex.com/legal/confidential/
 
 ## Advertising
 The app is free and shows ads from Yandex Advertising Network (YANDEX LLC) via the Yandex Mobile Ads SDK. To show
@@ -46,12 +51,17 @@ _Дата обновления: 16 октября 2026 г._
 Приложение Murmur («приложение») разработано Дмитрием Шуневичем.
 
 **Ваши данные никогда не покидают устройство.** У нас нет серверов и аккаунтов. Звуки создаются на вашем устройстве (iPhone или Android-телефоне),
-сохранённые миксы и настройки хранятся только на нём. Единственный сторонний сервис в приложении — реклама Яндекса,
+сохранённые миксы и настройки хранятся только на нём. Сторонние сервисы в приложении — обезличенная аналитика использования и реклама Яндекса,
 о ней ниже.
 
 ## Ваши данные
 Сохранённые миксы и последние включённые звуки хранятся на устройстве и входят в обычную резервную копию. При удалении
 приложения они удаляются. Мы их не получаем. Приложение не использует микрофон.
+
+## Аналитика
+Приложение использует AppMetrica (ООО «ЯНДЕКС») для сбора обезличенной статистики использования (какие экраны
+открыты, взаимодействия с рекламой). Эти данные не связаны с вашей личностью и используются только для
+улучшения приложения. Политика конфиденциальности AppMetrica: https://yandex.ru/legal/confidential/
 
 ## Реклама
 Приложение бесплатное и показывает рекламу Рекламной сети Яндекса (ООО «ЯНДЕКС») через Yandex Mobile Ads SDK. Для показа

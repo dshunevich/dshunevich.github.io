@@ -9,8 +9,7 @@ _Last updated: October 24, 2026_
 PrivScan ("the app") is developed by Dmitriy Shunevich.
 
 **Your documents never leave your device.** We do not have servers or accounts, and we never receive your
-documents. Everything stays on your device (iPhone or Android phone). The only third-party service in the app is
-advertising from Yandex, described below.
+documents. Everything stays on your device (iPhone or Android phone). The third-party services in the app are anonymous usage analytics and advertising from Yandex, described below.
 
 ## Your documents
 Scans, recognized text and settings are stored only on your device, in the app's private storage. Text recognition
@@ -27,6 +26,11 @@ has no access to the rest of your photo library.
 On iPhone, Face ID or your passcode is checked by iOS. On Android, your fingerprint or face is checked by the Android
 system (BiometricPrompt); the app's own passcode is stored only as a salted hash on your device. The app never receives
 your biometric data.
+
+## Analytics
+The app uses AppMetrica (YANDEX LLC) to collect anonymous usage statistics (which screens are opened, ad
+interactions). This data is not linked to your identity and is used only to improve the app.
+AppMetrica privacy policy: https://yandex.com/legal/confidential/
 
 ## Advertising
 The app is free and shows ads from Yandex Advertising Network (YANDEX LLC) via the Yandex Mobile Ads SDK. To show
@@ -59,8 +63,7 @@ _Дата обновления: 24 октября 2026 г._
 Приложение PrivScan («приложение») разработано Дмитрием Шуневичем.
 
 **Ваши документы никогда не покидают устройство.** У нас нет серверов и аккаунтов, мы не получаем ваши
-документы. Всё остаётся на вашем устройстве (iPhone или Android-телефоне). Единственный сторонний сервис
-в приложении — реклама Яндекса, о ней ниже.
+документы. Всё остаётся на вашем устройстве (iPhone или Android-телефоне). Сторонние сервисы в приложении — обезличенная аналитика использования и реклама Яндекса, о ней ниже.
 
 ## Ваши документы
 Сканы, распознанный текст и настройки хранятся только на вашем устройстве, в закрытом хранилище приложения.
@@ -78,6 +81,11 @@ _Дата обновления: 24 октября 2026 г._
 На iPhone Face ID или код-пароль проверяет iOS. На Android отпечаток пальца или лицо проверяет система Android
 (BiometricPrompt); собственный код приложения хранится на устройстве только в виде хэша с солью. Приложение не получает
 ваши биометрические данные.
+
+## Аналитика
+Приложение использует AppMetrica (ООО «ЯНДЕКС») для сбора обезличенной статистики использования (какие экраны
+открыты, взаимодействия с рекламой). Эти данные не связаны с вашей личностью и используются только для
+улучшения приложения. Политика конфиденциальности AppMetrica: https://yandex.ru/legal/confidential/
 
 ## Реклама
 Приложение бесплатное и показывает рекламу Рекламной сети Яндекса (ООО «ЯНДЕКС») через Yandex Mobile Ads SDK. Чтобы

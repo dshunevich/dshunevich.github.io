@@ -15,6 +15,11 @@ and windows, material parameters, prices) and your saved projects are stored onl
 phone). Shopping lists shared as text or PDF are created on your device and sent only where you choose in the system
 share sheet.
 
+## Analytics
+The app uses AppMetrica (YANDEX LLC) to collect anonymous usage statistics (which screens are opened, ad
+interactions). This data is not linked to your identity and is used only to improve the app.
+AppMetrica privacy policy: https://yandex.com/legal/confidential/
+
 ## Advertising
 The app is free and shows ads from Yandex Advertising Network (YANDEX LLC) via the Yandex Mobile Ads SDK. To show and
 measure ads, the SDK processes device and usage information such as the device model, OS version, IP address and the
@@ -54,6 +59,11 @@ _Дата обновления: 22 октября 2026 г._
 окна, параметры материалов, цены), и сохранённые объекты хранятся только на вашем устройстве (iPhone или
 Android-телефоне). Список покупок текстом или в PDF создаётся на устройстве и передаётся только туда, куда вы выберете
 в системном меню «Поделиться».
+
+## Аналитика
+Приложение использует AppMetrica (ООО «ЯНДЕКС») для сбора обезличенной статистики использования (какие экраны
+открыты, взаимодействия с рекламой). Эти данные не связаны с вашей личностью и используются только для
+улучшения приложения. Политика конфиденциальности AppMetrica: https://yandex.ru/legal/confidential/
 
 ## Реклама
 Приложение бесплатное и показывает рекламу Рекламной сети Яндекса (ООО «ЯНДЕКС») через Yandex Mobile Ads SDK. Для показа

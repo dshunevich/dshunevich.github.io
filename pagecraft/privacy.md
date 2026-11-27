@@ -16,6 +16,11 @@ third-party service in the app is advertising from Yandex, described below.
 ## Settings
 Your default paper size is saved on your device.
 
+## Analytics
+The app uses AppMetrica (YANDEX LLC) to collect anonymous usage statistics (which screens are opened, ad
+interactions). This data is not linked to your identity and is used only to improve the app.
+AppMetrica privacy policy: https://yandex.com/legal/confidential/
+
 ## Advertising
 The app is free and shows ads from Yandex Advertising Network (YANDEX LLC) via the Yandex Mobile Ads SDK. To show
 and measure ads, the SDK processes device and usage information such as the device model, OS version, IP address and
@@ -48,11 +53,15 @@ _Дата обновления: 18 октября 2026 г._
 
 **Ваши фото и документы никогда не покидают устройство.** У нас нет серверов и аккаунтов. Приложение получает только
 фото, выбранные вами в системном окне выбора, и файлы, выбранные в «Файлах»; раскладывает их и отправляет на принтер
-через системную печать (Apple AirPrint на iPhone, печать Android на Android) или создаёт PDF, которым вы делитесь сами. Мы ничего не загружаем и не храним. Единственный
-сторонний сервис в приложении — реклама Яндекса, о ней ниже.
+через системную печать (Apple AirPrint на iPhone, печать Android на Android) или создаёт PDF, которым вы делитесь сами. Мы ничего не загружаем и не храним. Сторонние сервисы в приложении — обезличенная аналитика использования и реклама Яндекса, о ней ниже.
 
 ## Настройки
 Размер бумаги по умолчанию сохраняется на вашем устройстве.
+
+## Аналитика
+Приложение использует AppMetrica (ООО «ЯНДЕКС») для сбора обезличенной статистики использования (какие экраны
+открыты, взаимодействия с рекламой). Эти данные не связаны с вашей личностью и используются только для
+улучшения приложения. Политика конфиденциальности AppMetrica: https://yandex.ru/legal/confidential/
 
 ## Реклама
 Приложение бесплатное и показывает рекламу Рекламной сети Яндекса (ООО «ЯНДЕКС») через Yandex Mobile Ads SDK. Для показа

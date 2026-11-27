@@ -10,7 +10,12 @@ Skanvordia («Сканвордия», "the app") is developed by Dmitriy Shunevi
 
 **Your progress never leaves your device.** We do not have servers or accounts. Your solved scanwords, daily scanwords,
 unfinished scanwords, statistics, awards and settings are stored only on your Android device. All scanwords are built into
-the app. The only third-party service in the app is advertising from Yandex, described below.
+the app. The third-party services in the app are anonymous usage analytics and advertising from Yandex, described below.
+
+## Analytics
+The app uses AppMetrica (YANDEX LLC) to collect anonymous usage statistics (which screens are opened, ad
+interactions). This data is not linked to your identity and is used only to improve the app.
+AppMetrica privacy policy: https://yandex.com/legal/confidential/
 
 ## Advertising
 The app is free and shows ads from Yandex Advertising Network (YANDEX LLC) via the Yandex Mobile Ads SDK. To show
@@ -47,7 +52,12 @@ _Дата обновления: 18 ноября 2026 г._
 
 **Ваш прогресс никогда не покидает устройство.** У нас нет серверов и аккаунтов. Разгаданные сканворды, сканворды дня,
 незаконченные сканворды, статистика, награды и настройки хранятся только на вашем Android-устройстве. Все
-сканворды встроены в приложение. Единственный сторонний сервис в приложении — реклама Яндекса, о ней ниже.
+сканворды встроены в приложение. Сторонние сервисы в приложении — обезличенная аналитика использования и реклама Яндекса, о ней ниже.
+
+## Аналитика
+Приложение использует AppMetrica (ООО «ЯНДЕКС») для сбора обезличенной статистики использования (какие экраны
+открыты, взаимодействия с рекламой). Эти данные не связаны с вашей личностью и используются только для
+улучшения приложения. Политика конфиденциальности AppMetrica: https://yandex.ru/legal/confidential/
 
 ## Реклама
 Приложение бесплатное и показывает рекламу Рекламной сети Яндекса (ООО «ЯНДЕКС») через Yandex Mobile Ads SDK. Для показа

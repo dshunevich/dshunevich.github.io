@@ -9,8 +9,7 @@ _Last updated: October 15, 2026_
 Daymark ("the app") is developed by Dmitriy Shunevich.
 
 **Your data never leaves your device.** We do not have servers or accounts. Your habits, schedules, reminders and check-ins
-are stored only on your device (iPhone or Android phone). The only third-party service in the app is
-advertising from Yandex, described below.
+are stored only on your device (iPhone or Android phone). The third-party services in the app are anonymous usage analytics and advertising from Yandex, described below.
 
 ## Your data
 Everything you enter is saved in storage shared only between the app and its widgets on your device, and is
@@ -18,6 +17,11 @@ included in your regular device backup. You can delete it at any time in Setting
 
 ## Notifications
 If you set a reminder for a habit, the app schedules local notifications on your device. Nothing is sent to us.
+
+## Analytics
+The app uses AppMetrica (YANDEX LLC) to collect anonymous usage statistics (which screens are opened, ad
+interactions). This data is not linked to your identity and is used only to improve the app.
+AppMetrica privacy policy: https://yandex.com/legal/confidential/
 
 ## Advertising
 The app is free and shows ads from Yandex Advertising Network (YANDEX LLC) via the Yandex Mobile Ads SDK. To show
@@ -50,8 +54,7 @@ _Дата обновления: 15 октября 2026 г._
 Приложение Daymark («приложение») разработано Дмитрием Шуневичем.
 
 **Ваши данные никогда не покидают устройство.** У нас нет серверов и аккаунтов. Привычки, расписание, напоминания и отметки
-хранятся только на вашем устройстве (iPhone или Android-телефоне). Единственный сторонний сервис в приложении —
-реклама Яндекса, о ней ниже.
+хранятся только на вашем устройстве (iPhone или Android-телефоне). Сторонние сервисы в приложении — обезличенная аналитика использования и реклама Яндекса, о ней ниже.
 
 ## Ваши данные
 Всё, что вы вводите, сохраняется в хранилище на устройстве, доступном только приложению и его виджетам, и входит
@@ -60,6 +63,11 @@ _Дата обновления: 15 октября 2026 г._
 ## Уведомления
 Если вы зададите напоминание для привычки, приложение запланирует локальные уведомления на устройстве. Нам ничего
 не отправляется.
+
+## Аналитика
+Приложение использует AppMetrica (ООО «ЯНДЕКС») для сбора обезличенной статистики использования (какие экраны
+открыты, взаимодействия с рекламой). Эти данные не связаны с вашей личностью и используются только для
+улучшения приложения. Политика конфиденциальности AppMetrica: https://yandex.ru/legal/confidential/
 
 ## Реклама
 Приложение бесплатное и показывает рекламу Рекламной сети Яндекса (ООО «ЯНДЕКС») через Yandex Mobile Ads SDK. Чтобы

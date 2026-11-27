@@ -20,6 +20,11 @@ notification a day. The home-screen widget reads the same local data. Nothing is
 ## Sharing
 When you tap "Share", the greeting text is passed to the app you choose (messenger, SMS). We do not see it.
 
+## Analytics
+The app uses AppMetrica (YANDEX LLC) to collect anonymous usage statistics (which screens are opened, ad
+interactions). This data is not linked to your identity and is used only to improve the app.
+AppMetrica privacy policy: https://yandex.com/legal/confidential/
+
 ## Advertising
 The app is free and shows ads from Yandex Advertising Network (YANDEX LLC) via the Yandex Mobile Ads SDK. To show and
 measure ads, the SDK processes device and usage information such as the device model, OS version, IP address and the
@@ -61,6 +66,11 @@ _Дата обновления: 18 ноября 2026 г._
 ## «Поделиться»
 Когда вы нажимаете «Поделиться», текст поздравления передаётся выбранному вами приложению (мессенджер, СМС). Мы его не
 видим.
+
+## Аналитика
+Приложение использует AppMetrica (ООО «ЯНДЕКС») для сбора обезличенной статистики использования (какие экраны
+открыты, взаимодействия с рекламой). Эти данные не связаны с вашей личностью и используются только для
+улучшения приложения. Политика конфиденциальности AppMetrica: https://yandex.ru/legal/confidential/
 
 ## Реклама
 Приложение бесплатное и показывает рекламу Рекламной сети Яндекса (ООО «ЯНДЕКС») через Yandex Mobile Ads SDK. Для показа

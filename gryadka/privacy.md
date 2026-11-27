@@ -17,6 +17,11 @@ positions are calculated on the device, without network requests. The app does n
 If you turn on the daily notification or add a reminder to the journal, the app asks for permission to show
 notifications and schedules local notifications. The home-screen widget reads the same local data. Nothing is sent to us.
 
+## Analytics
+The app uses AppMetrica (YANDEX LLC) to collect anonymous usage statistics (which screens are opened, ad
+interactions). This data is not linked to your identity and is used only to improve the app.
+AppMetrica privacy policy: https://yandex.com/legal/confidential/
+
 ## Advertising
 The app is free and shows ads from Yandex Advertising Network (YANDEX LLC) via the Yandex Mobile Ads SDK. To show and
 measure ads, the SDK processes device and usage information such as the device model, OS version, IP address and the
@@ -55,6 +60,11 @@ _Дата обновления: 18 ноября 2026 г._
 Если вы включите ежедневное уведомление или добавите напоминание в дневник, приложение попросит разрешение на
 уведомления и будет показывать локальные уведомления. Виджет на рабочем столе читает те же данные на телефоне. Нам
 ничего не передаётся.
+
+## Аналитика
+Приложение использует AppMetrica (ООО «ЯНДЕКС») для сбора обезличенной статистики использования (какие экраны
+открыты, взаимодействия с рекламой). Эти данные не связаны с вашей личностью и используются только для
+улучшения приложения. Политика конфиденциальности AppMetrica: https://yandex.ru/legal/confidential/
 
 ## Реклама
 Приложение бесплатное и показывает рекламу Рекламной сети Яндекса (ООО «ЯНДЕКС») через Yandex Mobile Ads SDK. Для показа

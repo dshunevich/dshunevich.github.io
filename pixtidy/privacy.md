@@ -9,7 +9,7 @@ _Last updated: October 15, 2026_
 Pixtidy ("the app") is developed by Dmitriy Shunevich.
 
 **Your photos never leave your device.** We do not have servers or accounts, and we never receive your photos or
-videos. The only third-party service in the app is advertising from Yandex, described below.
+videos. The third-party services in the app are anonymous usage analytics and advertising from Yandex, described below.
 
 ## Photos
 With your permission, Pixtidy reads your photo library to find duplicates, similar shots, screenshots and large
@@ -19,6 +19,11 @@ local cache. Photos are deleted only after you confirm in the system dialog: on 
 Deleted for 30 days; on Android, they go to the gallery trash for 30 days where supported (Android 11 and later; on
 older versions deletion is permanent). You can change photo access at any time: on iPhone in Settings → Privacy &
 Security → Photos; on Android in Settings → Apps → Pixtidy → Permissions → Photos and videos.
+
+## Analytics
+The app uses AppMetrica (YANDEX LLC) to collect anonymous usage statistics (which screens are opened, ad
+interactions). This data is not linked to your identity and is used only to improve the app.
+AppMetrica privacy policy: https://yandex.com/legal/confidential/
 
 ## Advertising
 The app is free and shows ads from Yandex Advertising Network (YANDEX LLC) via the Yandex Mobile Ads SDK. To show
@@ -51,7 +56,7 @@ _Дата обновления: 15 октября 2026 г._
 Приложение Pixtidy («приложение») разработано Дмитрием Шуневичем.
 
 **Ваши фото никогда не покидают устройство.** У нас нет серверов и аккаунтов, мы не получаем ваши фото и видео.
-Единственный сторонний сервис в приложении — реклама Яндекса, о ней ниже.
+Сторонние сервисы в приложении — обезличенная аналитика использования и реклама Яндекса, о ней ниже.
 
 ## Фото
 С вашего разрешения Pixtidy читает медиатеку, чтобы найти дубли, похожие кадры, скриншоты и большие видео. Весь анализ
@@ -62,6 +67,11 @@ _Дата обновления: 15 октября 2026 г._
 (Android 11 и новее; на более ранних версиях удаление окончательное). Изменить доступ к фото можно в любой момент: на
 iPhone — Настройки → Конфиденциальность и безопасность → Фото; на Android — Настройки → Приложения → Pixtidy →
 Разрешения → Фото и видео.
+
+## Аналитика
+Приложение использует AppMetrica (ООО «ЯНДЕКС») для сбора обезличенной статистики использования (какие экраны
+открыты, взаимодействия с рекламой). Эти данные не связаны с вашей личностью и используются только для
+улучшения приложения. Политика конфиденциальности AppMetrica: https://yandex.ru/legal/confidential/
 
 ## Реклама
 Приложение бесплатное и показывает рекламу Рекламной сети Яндекса (ООО «ЯНДЕКС») через Yandex Mobile Ads SDK. Чтобы

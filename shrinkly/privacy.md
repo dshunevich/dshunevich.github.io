@@ -9,7 +9,7 @@ _Last updated: October 18, 2026_
 Shrinkly ("the app") is developed by Dmitriy Shunevich.
 
 **Your videos and photos never leave your device.** We do not have servers or accounts. Compression runs entirely
-on your device (iPhone or Android phone). The only third-party service in the app is advertising from Yandex, described below.
+on your device (iPhone or Android phone). The third-party services in the app are anonymous usage analytics and advertising from Yandex, described below.
 
 ## Photo library
 If you allow access, the app reads your videos and photos to show their sizes and to make compressed copies, saves
@@ -21,6 +21,11 @@ The app keeps a local list of the copies it created and a counter of space saved
 ## Location in files
 By default, compressed copies keep the original date and the place where they were taken. You can turn off
 "Keep location" to remove location data from the copies.
+
+## Analytics
+The app uses AppMetrica (YANDEX LLC) to collect anonymous usage statistics (which screens are opened, ad
+interactions). This data is not linked to your identity and is used only to improve the app.
+AppMetrica privacy policy: https://yandex.com/legal/confidential/
 
 ## Advertising
 The app is free and shows ads from Yandex Advertising Network (YANDEX LLC) via the Yandex Mobile Ads SDK. To show
@@ -53,7 +58,7 @@ _Дата обновления: 18 октября 2026 г._
 Приложение Shrinkly («приложение») разработано Дмитрием Шуневичем.
 
 **Ваши видео и фото никогда не покидают устройство.** У нас нет серверов и аккаунтов. Сжатие полностью выполняется
-на вашем устройстве (iPhone или телефоне на Android). Единственный сторонний сервис в приложении — реклама Яндекса, о ней ниже.
+на вашем устройстве (iPhone или телефоне на Android). Сторонние сервисы в приложении — обезличенная аналитика использования и реклама Яндекса, о ней ниже.
 
 ## Медиатека
 Если вы разрешите доступ, приложение читает видео и фото, чтобы показать их размер и сделать сжатые копии, сохраняет
@@ -65,6 +70,11 @@ _Дата обновления: 18 октября 2026 г._
 ## Геопозиция в файлах
 По умолчанию сжатые копии сохраняют исходную дату и место съёмки. Выключите «Сохранить геопозицию», чтобы убрать
 данные о месте из копий.
+
+## Аналитика
+Приложение использует AppMetrica (ООО «ЯНДЕКС») для сбора обезличенной статистики использования (какие экраны
+открыты, взаимодействия с рекламой). Эти данные не связаны с вашей личностью и используются только для
+улучшения приложения. Политика конфиденциальности AppMetrica: https://yandex.ru/legal/confidential/
 
 ## Реклама
 Приложение бесплатное и показывает рекламу Рекламной сети Яндекса (ООО «ЯНДЕКС») через Yandex Mobile Ads SDK. Для показа

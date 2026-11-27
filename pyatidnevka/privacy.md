@@ -19,6 +19,11 @@ The calendar is built into the app. About once a week the app downloads one publ
 request contains no personal data, identifiers or settings. As with any internet request, the server (GitHub Pages)
 sees your IP address. The home screen widget uses the data already on your device and makes no requests.
 
+## Analytics
+The app uses AppMetrica (YANDEX LLC) to collect anonymous usage statistics (which screens are opened, ad
+interactions). This data is not linked to your identity and is used only to improve the app.
+AppMetrica privacy policy: https://yandex.com/legal/confidential/
+
 ## Advertising
 The app is free and shows ads from Yandex Advertising Network (YANDEX LLC) via the Yandex Mobile Ads SDK. Ads are never
 shown in the widget. To show and measure ads, the SDK processes device and usage information such as the device model,
@@ -64,6 +69,11 @@ _Дата обновления: 22 октября 2026 г._
 (https://dshunevich.github.io/pyatidnevka/workcal.json), чтобы добавить новый год, как только Правительство его утвердит.
 В запросе нет персональных данных, идентификаторов и настроек. Как при любом обращении в интернет, сервер (GitHub Pages)
 видит ваш IP-адрес. Виджет на экране «Домой» использует данные, уже сохранённые на устройстве, и запросов не делает.
+
+## Аналитика
+Приложение использует AppMetrica (ООО «ЯНДЕКС») для сбора обезличенной статистики использования (какие экраны
+открыты, взаимодействия с рекламой). Эти данные не связаны с вашей личностью и используются только для
+улучшения приложения. Политика конфиденциальности AppMetrica: https://yandex.ru/legal/confidential/
 
 ## Реклама
 Приложение бесплатное и показывает рекламу Рекламной сети Яндекса (ООО «ЯНДЕКС») через Yandex Mobile Ads SDK. В виджете

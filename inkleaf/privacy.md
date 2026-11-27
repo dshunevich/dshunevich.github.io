@@ -9,7 +9,7 @@ _Last updated: October 24, 2026_
 Inkleaf ("the app") is developed by Dmitriy Shunevich.
 
 **Your documents never leave your device.** We do not have servers or accounts. Your PDFs, signatures and edits
-are stored only on your device (iPhone or Android phone). The only third-party service in the app is advertising from
+are stored only on your device (iPhone or Android phone). The third-party services in the app are anonymous usage analytics and advertising from
 Yandex, described below.
 
 ## Your documents and signatures
@@ -21,6 +21,11 @@ any of it. Documents leave the app only when you share, print or export them you
 ## Camera and photos
 The camera is used only when you scan a paper document (on Android, through the system camera app). Photos you pick
 are converted to PDF on the device. The app never uploads images.
+
+## Analytics
+The app uses AppMetrica (YANDEX LLC) to collect anonymous usage statistics (which screens are opened, ad
+interactions). This data is not linked to your identity and is used only to improve the app.
+AppMetrica privacy policy: https://yandex.com/legal/confidential/
 
 ## Advertising
 The app is free and shows ads from Yandex Advertising Network (YANDEX LLC) via the Yandex Mobile Ads SDK. To show
@@ -53,7 +58,7 @@ _Дата обновления: 24 октября 2026 г._
 Приложение Inkleaf («приложение») разработано Дмитрием Шуневичем.
 
 **Ваши документы никогда не покидают устройство.** У нас нет серверов и аккаунтов. PDF, подписи и правки хранятся
-только на вашем устройстве (iPhone или Android-телефоне). Единственный сторонний сервис в приложении — реклама Яндекса,
+только на вашем устройстве (iPhone или Android-телефоне). Сторонние сервисы в приложении — обезличенная аналитика использования и реклама Яндекса,
 о ней ниже.
 
 ## Документы и подписи
@@ -66,6 +71,11 @@ _Дата обновления: 24 октября 2026 г._
 Камера используется только для сканирования бумажных документов (на Android — через системное приложение камеры).
 Выбранные фото превращаются в PDF на устройстве.
 Приложение никогда не загружает изображения.
+
+## Аналитика
+Приложение использует AppMetrica (ООО «ЯНДЕКС») для сбора обезличенной статистики использования (какие экраны
+открыты, взаимодействия с рекламой). Эти данные не связаны с вашей личностью и используются только для
+улучшения приложения. Политика конфиденциальности AppMetrica: https://yandex.ru/legal/confidential/
 
 ## Реклама
 Приложение бесплатное и показывает рекламу Рекламной сети Яндекса (ООО «ЯНДЕКС») через Yandex Mobile Ads SDK. Для показа

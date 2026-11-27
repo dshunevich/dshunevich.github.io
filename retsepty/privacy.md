@@ -21,6 +21,11 @@ foreground service) and keeps the phone awake until the timer ends; when it ends
 On Android 13+ the app asks for the notification permission when you start the first timer. If you allow «Будильники и
 напоминания», the timer uses an exact system alarm. No timer data leaves the phone.
 
+## Analytics
+The app uses AppMetrica (YANDEX LLC) to collect anonymous usage statistics (which screens are opened, ad
+interactions). This data is not linked to your identity and is used only to improve the app.
+AppMetrica privacy policy: https://yandex.com/legal/confidential/
+
 ## Advertising
 The app is free and shows ads from Yandex Advertising Network (YANDEX LLC) via the Yandex Mobile Ads SDK. To show and
 measure ads, the SDK processes device and usage information such as the device model, OS version, IP address and the
@@ -62,6 +67,11 @@ _Дата обновления: 18 ноября 2026 г._
 переднего плана) и не даёт телефону уснуть до окончания; по окончании уведомление звонит будильным звуком. На Android 13+
 приложение спрашивает разрешение на уведомления при запуске первого таймера. Если вы разрешите «Будильники и
 напоминания», таймер использует точный будильник системы. Данные таймеров не покидают телефон.
+
+## Аналитика
+Приложение использует AppMetrica (ООО «ЯНДЕКС») для сбора обезличенной статистики использования (какие экраны
+открыты, взаимодействия с рекламой). Эти данные не связаны с вашей личностью и используются только для
+улучшения приложения. Политика конфиденциальности AppMetrica: https://yandex.ru/legal/confidential/
 
 ## Реклама
 Приложение бесплатное и показывает рекламу Рекламной сети Яндекса (ООО «ЯНДЕКС») через Yandex Mobile Ads SDK. Для показа

@@ -23,6 +23,11 @@ screen widget uses the same requests and the same saved copy.
 On Android you can ask to be notified when an official rate is above or below a value. The check runs on the phone in the
 background; your thresholds are never sent anywhere.
 
+## Analytics
+The app uses AppMetrica (YANDEX LLC) to collect anonymous usage statistics (which screens are opened, ad
+interactions). This data is not linked to your identity and is used only to improve the app.
+AppMetrica privacy policy: https://yandex.com/legal/confidential/
+
 ## Advertising
 The app is free and shows ads from Yandex Advertising Network (YANDEX LLC) via the Yandex Mobile Ads SDK. Ads are never
 shown in the widget. To show and measure ads, the SDK processes device and usage information such as the device model,
@@ -71,6 +76,11 @@ www.cbr-xml-daily.ru. В этих запросах передаются толь
 ## Уведомления о курсе (Android)
 На Android можно попросить уведомить, когда официальный курс станет выше или ниже заданного. Проверка выполняется на
 телефоне в фоне; заданные значения никуда не отправляются.
+
+## Аналитика
+Приложение использует AppMetrica (ООО «ЯНДЕКС») для сбора обезличенной статистики использования (какие экраны
+открыты, взаимодействия с рекламой). Эти данные не связаны с вашей личностью и используются только для
+улучшения приложения. Политика конфиденциальности AppMetrica: https://yandex.ru/legal/confidential/
 
 ## Реклама
 Приложение бесплатное и показывает рекламу Рекламной сети Яндекса (ООО «ЯНДЕКС») через Yandex Mobile Ads SDK. В виджете

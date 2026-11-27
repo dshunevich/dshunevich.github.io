@@ -9,8 +9,7 @@ _Last updated: October 16, 2026_
 Hearten ("the app") is developed by Dmitriy Shunevich.
 
 **Your data never leaves your device.** We do not have servers or accounts. Your favorites, your own affirmations,
-chosen topics and reminder settings are stored only on your device (iPhone or Android phone). The only third-party service in the app is
-advertising from Yandex, described below.
+chosen topics and reminder settings are stored only on your device (iPhone or Android phone). The third-party services in the app are anonymous usage analytics and advertising from Yandex, described below.
 
 ## Your data
 Everything is saved in storage shared only between the app and its widgets on your device, and is included in your
@@ -18,6 +17,11 @@ regular device backup. Deleting the app deletes it. We never receive it.
 
 ## Notifications
 If you turn on reminders, the app schedules local notifications on your device. Nothing is sent to us.
+
+## Analytics
+The app uses AppMetrica (YANDEX LLC) to collect anonymous usage statistics (which screens are opened, ad
+interactions). This data is not linked to your identity and is used only to improve the app.
+AppMetrica privacy policy: https://yandex.com/legal/confidential/
 
 ## Advertising
 The app is free and shows ads from Yandex Advertising Network (YANDEX LLC) via the Yandex Mobile Ads SDK. To show
@@ -50,8 +54,7 @@ _Дата обновления: 16 октября 2026 г._
 Приложение Hearten («приложение») разработано Дмитрием Шуневичем.
 
 **Ваши данные никогда не покидают устройство.** У нас нет серверов и аккаунтов. Избранное, ваши собственные
-аффирмации, выбранные темы и настройки напоминаний хранятся только на вашем устройстве (iPhone или Android-телефоне). Единственный сторонний сервис в
-приложении — реклама Яндекса, о ней ниже.
+аффирмации, выбранные темы и настройки напоминаний хранятся только на вашем устройстве (iPhone или Android-телефоне). Сторонние сервисы в приложении — обезличенная аналитика использования и реклама Яндекса, о ней ниже.
 
 ## Ваши данные
 Всё сохраняется в хранилище на устройстве, доступном только приложению и его виджетам, и входит в обычную резервную
@@ -59,6 +62,11 @@ _Дата обновления: 16 октября 2026 г._
 
 ## Уведомления
 Если вы включите напоминания, приложение запланирует локальные уведомления на устройстве. Нам ничего не отправляется.
+
+## Аналитика
+Приложение использует AppMetrica (ООО «ЯНДЕКС») для сбора обезличенной статистики использования (какие экраны
+открыты, взаимодействия с рекламой). Эти данные не связаны с вашей личностью и используются только для
+улучшения приложения. Политика конфиденциальности AppMetrica: https://yandex.ru/legal/confidential/
 
 ## Реклама
 Приложение бесплатное и показывает рекламу Рекламной сети Яндекса (ООО «ЯНДЕКС») через Yandex Mobile Ads SDK. Для показа

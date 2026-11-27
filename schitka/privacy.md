@@ -22,6 +22,11 @@ are shared only where you choose in the system share sheet.
 - The app does not request access to your contacts, photo library, location or Wi‑Fi settings: adding a contact and
   joining a Wi‑Fi network are done through the system screens, where you confirm the action.
 
+## Analytics
+The app uses AppMetrica (YANDEX LLC) to collect anonymous usage statistics (which screens are opened, ad
+interactions). This data is not linked to your identity and is used only to improve the app.
+AppMetrica privacy policy: https://yandex.com/legal/confidential/
+
 ## Advertising
 The app is free and shows ads from Yandex Advertising Network (YANDEX LLC) via the Yandex Mobile Ads SDK. Ads are never
 shown over the camera or on a scan result. To show and measure ads, the SDK processes device and usage information such
@@ -71,6 +76,11 @@ _Дата обновления: 22 октября 2026 г._
   меню «Поделиться».
 - Доступ к контактам, галерее, геопозиции и настройкам Wi‑Fi приложение не запрашивает: добавление контакта и
   подключение к Wi‑Fi выполняются через системные окна, где вы сами подтверждаете действие.
+
+## Аналитика
+Приложение использует AppMetrica (ООО «ЯНДЕКС») для сбора обезличенной статистики использования (какие экраны
+открыты, взаимодействия с рекламой). Эти данные не связаны с вашей личностью и используются только для
+улучшения приложения. Политика конфиденциальности AppMetrica: https://yandex.ru/legal/confidential/
 
 ## Реклама
 Приложение бесплатное и показывает рекламу Рекламной сети Яндекса (ООО «ЯНДЕКС») через Yandex Mobile Ads SDK. Поверх

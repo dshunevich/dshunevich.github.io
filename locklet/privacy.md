@@ -11,8 +11,7 @@ Locklet ("the app") is developed by Dmitriy Shunevich.
 **Your photos never leave your device.** We do not have servers or accounts. Photos and videos you add to Locklet
 are stored only on your device (iPhone or Android phone), inside the app. On iPhone, they are protected by iOS data
 protection (encrypted while the phone is locked) and are included in your regular iPhone backup. On Android, files are
-encrypted with a key kept in the Android Keystore and are excluded from backups. The only third-party service in the
-app is advertising from Yandex, described below.
+encrypted with a key kept in the Android Keystore and are excluded from backups. The third-party services in the app are anonymous usage analytics and advertising from Yandex, described below.
 
 ## Passcode and biometrics
 Your passcode is never stored — only a salted hash, kept on this device (in the iOS Keychain on iPhone, in the app's
@@ -25,6 +24,11 @@ The app shows the system photo picker; it gets only the items you select. On iPh
 originals after moving them, the app asks for library access and iOS confirms the deletion. On Android, the app does not
 access your gallery and does not delete originals — you can delete them yourself in your gallery app. The camera and
 microphone are used only when you take a photo or video inside the app (on Android, through the system camera app).
+
+## Analytics
+The app uses AppMetrica (YANDEX LLC) to collect anonymous usage statistics (which screens are opened, ad
+interactions). This data is not linked to your identity and is used only to improve the app.
+AppMetrica privacy policy: https://yandex.com/legal/confidential/
 
 ## Advertising
 The app is free and shows ads from Yandex Advertising Network (YANDEX LLC) via the Yandex Mobile Ads SDK. To show
@@ -62,7 +66,7 @@ _Дата обновления: 21 октября 2026 г._
 **Ваши фото никогда не покидают устройство.** У нас нет серверов и аккаунтов. Фото и видео, добавленные в Locklet,
 хранятся только на вашем устройстве (iPhone или телефоне на Android) внутри приложения. На iPhone они под защитой данных
 iOS (зашифрованы, пока телефон заблокирован) и входят в обычную резервную копию iPhone. На Android файлы зашифрованы
-ключом из Android Keystore и не входят в резервные копии. Единственный сторонний сервис в приложении — реклама Яндекса,
+ключом из Android Keystore и не входят в резервные копии. Сторонние сервисы в приложении — обезличенная аналитика использования и реклама Яндекса,
 о ней ниже.
 
 ## Код и биометрия
@@ -76,6 +80,11 @@ iOS (зашифрованы, пока телефон заблокирован) �
 после переноса, приложение запросит доступ к медиатеке, а iOS попросит подтвердить удаление. На Android приложение не
 обращается к галерее и не удаляет оригиналы — их можно удалить самостоятельно в приложении галереи. Камера и микрофон
 используются только при съёмке внутри приложения (на Android — через системное приложение камеры).
+
+## Аналитика
+Приложение использует AppMetrica (ООО «ЯНДЕКС») для сбора обезличенной статистики использования (какие экраны
+открыты, взаимодействия с рекламой). Эти данные не связаны с вашей личностью и используются только для
+улучшения приложения. Политика конфиденциальности AppMetrica: https://yandex.ru/legal/confidential/
 
 ## Реклама
 Приложение бесплатное и показывает рекламу Рекламной сети Яндекса (ООО «ЯНДЕКС») через Yandex Mobile Ads SDK. Для показа
